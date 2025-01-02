@@ -1,0 +1,7 @@
+name: dev
+apiDeployment:
+  imageName: api
+  imageTag: test
+uiDeployment:
+  imageName: ui
+  imageTag: test
